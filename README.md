@@ -1,4 +1,4 @@
 rmiexample
 ==========
 
-A simple RMI Java example
+A simple Java RMI example
